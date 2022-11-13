@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`\`LogAdapter\` lifecycle 1`] = `
+[
+  [
+    [
+      null,
+      42,
+      "",
+      "productID",
+      1,
+      300998,
+      "logger level has been decreased from Error to Notice",
+      null,
+    ],
+  ],
+  [
+    [
+      null,
+      42,
+      "",
+      "productID",
+      1,
+      400999,
+      "logger has been detached",
+      null,
+    ],
+  ],
+]
+`;
+
+exports[`\`LogAdapter\` lifecycle 2`] = `
+[
+  [
+    [
+      null,
+      42,
+      "",
+      "productID",
+      1,
+      300999,
+      "logger has been attached",
+      null,
+    ],
+  ],
+  [
+    [
+      null,
+      42,
+      "",
+      "productID",
+      1,
+      400998,
+      "logger level has been increased from Notice to Warning",
+      null,
+    ],
+  ],
+  [
+    [
+      null,
+      42,
+      "",
+      "productID",
+      1,
+      400998,
+      "logger level has been increased from Warning to Off",
+      null,
+    ],
+  ],
+  [
+    [
+      null,
+      42,
+      "",
+      "productID",
+      1,
+      300998,
+      "logger level has been decreased from Off to Debug",
+      null,
+    ],
+  ],
+  [
+    [
+      null,
+      42,
+      "",
+      "productID",
+      1,
+      400999,
+      "logger has been detached",
+      null,
+    ],
+  ],
+]
+`;

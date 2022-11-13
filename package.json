@@ -40,7 +40,8 @@
         "pnpm": ">= 7.15.0"
     },
     "files": [
-        "dist"
+        "dist/main/*.js*",
+        "dist/module/*"
     ],
     "homepage": "https://github.com/v08r/es-logging#readme",
     "keywords": [

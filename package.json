@@ -58,6 +58,9 @@
     "module": "dist/module/index.js",
     "name": "@vernacular/es-logging",
     "packageManager": "pnpm@7.15.0",
+    "publishConfig": {
+        "access": "public"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/v08r/es-logging.git"

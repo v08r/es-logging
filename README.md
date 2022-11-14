@@ -1,4 +1,4 @@
-# @verncular/es-logging &middot; [![Coverage Status](https://coveralls.io/repos/github/v08r/es-logging/badge.svg)](https://coveralls.io/github/v08r/es-logging)
+# @vernacular/es-logging &middot; [![Coverage Status](https://coveralls.io/repos/github/v08r/es-logging/badge.svg)](https://coveralls.io/github/v08r/es-logging)
 
 Logging utils.
 
